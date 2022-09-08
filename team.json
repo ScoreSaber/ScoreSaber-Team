@@ -181,6 +181,24 @@
             "Twitch":"uninstaller_",
             "Twitter":"Uninstaller3",
             "YouTube":null
+         },
+         {
+            "Name":"Narwall",
+            "ProfilePicture":"narwall.gif",
+            "Discord":"336663714801385472",
+            "GitHub":null,
+            "Twitch":"that_one_narwhal",
+            "Twitter":"One_narwhal",
+            "YouTube":"UC09siDS15qQB1870QvQGf7A"
+         },
+         {
+            "Name":"abcbadq",
+            "ProfilePicture":"abcbadq.png",
+            "Discord":"143237840438820866",
+            "GitHub":null,
+            "Twitch":"abcbadq",
+            "Twitter":"abcbadq",
+            "YouTube":null
          }
       ],
       "RT":[
@@ -399,6 +417,51 @@
             "Twitch":"xhera",
             "Twitter":"xheraaaa",
             "YouTube":"UC2Zn83WCj2T1vvpz_8aZWhA"
+         },
+         {
+            "Name":"SlimyBlob",
+            "ProfilePicture":"blob.jpg",
+            "Discord":"320277915755610113",
+            "GitHub":null,
+            "Twitch":"slimyblob",
+            "Twitter":"BrekkeDen",
+            "YouTube":"UCweDaFtiJuunPmfWLoswWLQ"
+         },
+         {
+            "Name":"Cobayo",
+            "ProfilePicture":"blob.jpg",
+            "Discord":"242051945999630336",
+            "GitHub":null,
+            "Twitch":"wdg_cobayo",
+            "Twitter":"CobayoGamer",
+            "YouTube":"UCF4xdqK7bnuaEuMDaTzHs9A"
+         },
+         {
+            "Name":"Alice",
+            "ProfilePicture":"alice.png",
+            "Discord":"70788202327179264",
+            "GitHub":null,
+            "Twitch":"alicexiv",
+            "Twitter":"alicexiv",
+            "YouTube":"UC7tQXKPzGjRUuHrTNP_KgLQ"
+         },
+         {
+            "Name":"ThySpoon",
+            "ProfilePicture":"kana.jpg",
+            "Discord":"247521066753327126",
+            "GitHub":null,
+            "Twitch":"ThySpoone",
+            "Twitter":"ThySpoonn",
+            "YouTube":"UCg9MmhaSuKnYzOt6QXqJYKw"
+         },
+         {
+            "Name":"nolanLMOA",
+            "ProfilePicture":"lmoa.jpg",
+            "Discord":"193032862352670721",
+            "GitHub":null,
+            "Twitch":"nolanlmoa",
+            "Twitter":"LmoaNolan",
+            "YouTube":"UCH8C-Bx4svkFUlGhiPfqmxg"
          }
       ],
       "QAT":[
@@ -572,6 +635,15 @@
             "Twitch":"purp1elive",
             "Twitter":"purp1elive",
             "YouTube":"UCbLSpC8kh2lxA2OlUQttWkQ"
+         },
+         {
+            "Name":"Bitz",
+            "ProfilePicture":"Bitz.png",
+            "Discord":"172410617066422273",
+            "GitHub":null,
+            "Twitch":"gBitz",
+            "Twitter":"GameBitz",
+            "YouTube":"UC7T1uUHfocD9ADApYecBLvQ"
          }
       ],
       "CAT":[
